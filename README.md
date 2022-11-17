@@ -51,10 +51,10 @@
 | 27       | [Classes and Instances](./content/27.类与实例.md)            | 类和实例     | 已完成   |
 | 28       | [Methods and Initializers](./content/28.方法和初始化器.md)   | 方法和初始化 | 已完成   |
 | 29       | [Superclasses](./content/29.超类.md)                         | 超类         | 已完成   |
-| 30       | Optimization                                                 | 优化         | 施工中   |
-| ❧        | BACKMATTER                                                   | 后记         | 未开始   |
-| A1       | Appendix I: Lox Grammar                                      | Lox语法      | 未开始   |
-| A2       | Appendix II: Generated Syntax Tree Classes                   | 语法树类     | 未开始   |
+| 30       | [Optimization](./content/30.优化.md)                         | 优化         | 已完成   |
+| ❧        | 【BACKMATTER](./content/后记.md)                             | 后记         | 已完成   |
+| A1       | 【Appendix I: Lox Grammar](./content/附录I.md)               | Lox语法      | 已完成   |
+| A2       | [Appendix II: Generated Syntax Tree Classes](./content/附录II.md) | 语法树类     | 已完成   |
 
 
 
